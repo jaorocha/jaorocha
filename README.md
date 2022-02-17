@@ -1,4 +1,4 @@
-### Olá, eu sou o João Rocha, futuro programador, Full Stack, me apaixonando pela função de Project Owner. 👋
+### Oi, eu sou o João Rocha futuro programado Full Stack, me apaixonando pela função de Project Owner. 👋
 ### Bem vindo ao meu perfil no Github
 
 
@@ -10,8 +10,8 @@
 
 <div align="center">
   <a href="https://github.com/jaorocha">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=adrianoarch&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianoarch&layout=compact&langs_count=7&theme=calm"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jaorocha&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaorocha&layout=compact&langs_count=7&theme=calm"/>
 </div>
  
   <div style="display: inline_block"><br>
