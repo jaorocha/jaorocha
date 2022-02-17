@@ -5,7 +5,7 @@
 - 🖥️ Em transição de carreira para Desenvolvimento, muito empolgado com isso!!!
 - 🌱 Estudando HTML | CSS | Javascript | PHP | Python | Maker | Scrum  - Product Owner
 - 👨🏻‍🎓 Cursando Desenvolvedor Full Stack Python - EBAC
-- 😍 Apaixonado pelo Tecnologia. Desafiar é viver!!!
+- 😍 Apaixonado por Tecnologia. Desafiar é viver!!!
 
 
 <div align="center">
