@@ -1,8 +1,8 @@
-### Olá, eu sou o João Rocha, futuro programador, full stack, me apaixonando pela função de Project Owner. 👋
+### Olá, eu sou o João Rocha, futuro programador, Full Stack, me apaixonando pela função de Project Owner. 👋
 ### Bem vindo ao meu perfil no Github
 
 
-- 🖥️ Em transição de carreira para Desenvolvimento, e muito empolgado com isso!!!
+- 🖥️ Em transição de carreira para Desenvolvimento, muito empolgado com isso!!!
 - 🌱 Estudando HTML | CSS | Javascript | PHP | Python | Maker | Scrum  - Product Owner
 - 👨🏻‍🎓 Cursando Desenvolvedor Full Stack Python - EBAC
 - 😍 Apaixonado pelo Tecnologia. Desafiar é viver!!!
